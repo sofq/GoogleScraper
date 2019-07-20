@@ -324,7 +324,7 @@ geckodriver_path = '/home/nikolai/projects/private/Drivers/geckodriver'
 firefox_binary_path = '/home/nikolai/firefox/firefox'
 
 # path to chromium browser binary
-chrome_binary_path = '/usr/bin/chromium-browser'
+chrome_binary_path = '/usr/bin'
 
 # Manual captcha solving
 # If this parameter is set to a Integer, the browser waits for the user
